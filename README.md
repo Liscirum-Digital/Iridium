@@ -14,5 +14,7 @@ The advantages differentiating this project from others of it's kind are the pos
 In order to use the platform, you don't need to provide a credit card or telephone number; you don't have to reveal your e-mail adress. Thus, no connection between your Iridium account and your real life identity can be established; tracking becomes (almost) impossible.  
 Another important factor is the project's high portability. Your device got a browser? It got Iridium. While tedious installation and registration processes stunt many communication platforms and consolidate the network effect, Iridium breaks this vicious circle due to it's blazingly fast availability on _any_ device. Using Iridium is a matter of seconds - new ways of communication can be established almost instantly.
 
+(Oh, and as a nice bonus, the project is written in Rust, enabling lightning performance and maximum efficiency.)
+
 ## How can I use Iridium?
 As the project is under development, no application has been deployed. We are working fiercly to enable the usage of the Iridium Platform and are grateful for any help.
